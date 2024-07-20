@@ -23,7 +23,8 @@
     <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&srtle=for-the-badge" height="25" alt="youtube logo" />
   </a>  
 </div> 
-**Overview**
+
+### **Overview**
 ===========
 
 In this project, I conducted a thorough analysis of the Iris dataset with the primary objective of predicting species classifications using the Decision Tree algorithm  & to provide insights into feature importance and model performance using Python (jupyter notebook).You can also check my youtube link attached to this readme file for my explanation.
@@ -156,16 +157,6 @@ Overall, the project successfully showcased the effectiveness of the Decision Tr
 
 Thanks to the contributors of the libraries used in this project: Pandas, NumPy, Matplotlib, and Seaborn.
 Thanks to the creators of the Iris dataset for providing the data used in this analysis.
-
-**Author Information**
-----------------------
-#### ARYA S : www.linkedin.com/in/aryadataanalyst
-
-**Thank You!**
-
-
-
-
 Special thanks to the Spark Foundation to provide me this internship opportunity to showcase my skills in Data cleaning,EDA ,Decision Tree algoritham & forming meaningul insights.
 
 **Author Information**
