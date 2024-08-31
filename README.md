@@ -1,6 +1,6 @@
-### The Spark Foundation Data Science & Business Analytics Internship @GRIP #JULY24BATCH
 
-#### TASK 06- PREDICTION USING DECISION TREE ALGORITHAM
+
+#### PREDICTION USING DECISION TREE ALGORITHAM
 
 ##### Dataset : Iris dataset
 
